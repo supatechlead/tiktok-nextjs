@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""https://tiktok-nextjs-doc.netlify.app"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "TikTok Next JS"
