@@ -1,4 +1,4 @@
-baseURL = ""https://tiktok-nextjs-doc.netlify.app"
+baseURL = "https://tiktok-nextjs-doc.netlify.app"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "TikTok Next JS"
@@ -53,3 +53,4 @@ summaryLength = 30
 
   [params.footer]
     copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
+
